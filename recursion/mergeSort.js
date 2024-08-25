@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 function mergeSort(arr) {
 
     if (arr.length <= 1) {
